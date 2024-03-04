@@ -1,0 +1,11 @@
+ npm i react-player  
+ npm i @fortawesome/free-solid-svg-icons
+ npm i @fortawesome/react-fontawesome   
+ npm i react-bootstrap      
+ npm install bootstrapt       
+ npm install react-router-dom
+
+ < mui>
+ npm install @mui/material @emotion/react @emotion/styled
+
+ npm install react-material-ui-carousel
